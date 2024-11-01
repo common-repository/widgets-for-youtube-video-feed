@@ -1,0 +1,17 @@
+{
+    "landingPage": "/wp-admin/admin.php?page=widgets-for-youtube-video-feed%2Fadmin.php",
+    "features": {
+        "networking": true
+    },
+    "steps": [
+        {
+            "step": "login"
+        },
+        {
+            "step": "setSiteOptions",
+            "options": {
+                "trustindex-feed-youtube-preview": "1"
+            }
+        }
+    ]
+}
